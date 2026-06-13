@@ -1,0 +1,3 @@
+kind: service
+name: homebrew-core
+description: homebrew-core
